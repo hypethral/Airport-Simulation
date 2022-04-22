@@ -1,2 +1,2 @@
-#Airport Simulation - Java
+#Airport Simulation
 readme work in progress!
