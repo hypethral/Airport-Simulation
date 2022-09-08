@@ -1,6 +1,7 @@
-//Author: Arslan Khurram / TP058344
+//Author: Arslan Khurram
 //Program: Airport Simulation using threads
 //Date: 24th Feb 2022
+//Email: arslankhurramkhan@gmail.com
 import java.util.Random;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ExecutorService;
