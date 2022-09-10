@@ -47,7 +47,7 @@ public class AirTrafficController {
 		
 		try {
 			if (runwayThreadPool.awaitTermination(500, TimeUnit.SECONDS)) {
-				System.out.println("Simulation has ended! by Arslan Khurram");
+				System.out.println("Simulation terminated !");
 			}
 		} catch (InterruptedException e) {}	
 	}
